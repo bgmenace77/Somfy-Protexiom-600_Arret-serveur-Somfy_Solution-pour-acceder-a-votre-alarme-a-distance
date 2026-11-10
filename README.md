@@ -15,7 +15,7 @@ Dans l'interface de gestion de votre box internet, créez une redirection des po
 - L'interface de la centrale Somfy sera accessible. 
 
 Si vous utilisez l'application Alarme Somfy:
-- Aller sur la petite roue dentée sur le premier écran de l'application ALARME SOMFY
+- Cliquez sur la roue dentée dans le premier écran de l'application
 - Cliquez sur "Connexion à distance"
 - Saisir le nom d'hôte dans le champ http:// 
 #### Attention, ne cochez pas l'otion "Connexion rapide"
