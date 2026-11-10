@@ -4,7 +4,7 @@
 - Récupérer l'adresse IP externe de votre box internet en cliquant sur le lien suivant: https://browserleaks.com/ip
 - Notez le "Hostname"
 
-Dans votre box, créez une une redirection des ports comme suit:
+Dans l'interface de gestion de votre box internet, créez une une redirection des ports comme suit:
 - Protocole : TCP
 - Port externe : 80
 - Port interne : 80
