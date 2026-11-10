@@ -11,7 +11,7 @@ Dans l'interface de gestion de votre box internet, créez une une redirection de
 - Adresse IP de destination : L'adresse IP locale de votre centrale Somfy (ex: 192.168.X.X)
 #### Attention il faut que la centrale soit sur IP fixe!
 
-Depuis un navigateur, saisissez le host name, vous attérirez directement sur l'interface de votre centrale Somfy. 
+Depuis un navigateur, saisissez le hostname, l'interface de la centrale Somfy apparait. 
 
 Si vous utilisez l'appication Alarme Somfy, aller sur le petite roue dentée sur le premier écran de l'application ALARME SOMFY puis > 2 Connexion à distance , saisir le nom d'hôte dans le champ http:// 
 #### Attention ne cochez pas l'otion "Connexion rapide"
