@@ -4,10 +4,10 @@
 Récupérer l'adresse IP externe de votre box internet en cliquant sur le lien suivant, puis notez le "Hostname".
 https://browserleaks.com/ip
 Dans votre box, créez une une redirection des ports comme suit:
-• Protocole : TCP
-• Port externe : 80
-• Port interne : 80
-• Adresse IP de destination : L'adresse IP locale de votre centrale Somfy (ex: 192.168.X.X)
+- Protocole : TCP
+- Port externe : 80
+- Port interne : 80
+- Adresse IP de destination : L'adresse IP locale de votre centrale Somfy (ex: 192.168.X.X)
 - Attention il faut que la centrale soit sur IP fixe -
 
 Depuis un navigateur, saisissez le host name, vous attérirez directement sur l'interface de votre centrale Somfy.
