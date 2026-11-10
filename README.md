@@ -1,6 +1,6 @@
-#Tutoriel (2 solutions) pour accéder à votre alarme Somfy Protéxiom après l'arret des serveurs Somfy prévu le 31 mars 2027
+# Tutoriel (2 solutions) pour accéder à votre alarme Somfy Protéxiom après l'arret des serveurs Somfy prévu le 31 mars 2027
 
-##Solution n°1
+## Solution n°1
 Récupérer l'adresse IP externe de votre box internet en cliquant sur le lien suivant, puis notez le "Hostname".
 https://browserleaks.com/ip
 Dans votre box, créez une une redirection des ports comme suit:
@@ -14,7 +14,7 @@ Depuis un navigateur, saisissez le host name, vous attérirez directement sur l'
 Si vous utilisez l'appication Alarme Somfy, aller sur le petite roue dentée sur le premier écran de l'application ALARME SOMFY puis > 2 Connexion à distance , saisir le nom d'hôte dans le champ http:// 
 - Attention ne cochez pas l'otion Connexion rapide -
 
-##Solution n°2
+## Solution n°2
 Configurez un serveur VPN afin d'éaccéder à vos appaereils locaux à distance.
 Cette solution est payante sauf si vous êtes chez Free.
 Accédez à votre interface de gestion Freebox en tapant 192.168.1.254 dans votre navigateur, depuis un ordinateur connecté au WiFi de votre Freebox
