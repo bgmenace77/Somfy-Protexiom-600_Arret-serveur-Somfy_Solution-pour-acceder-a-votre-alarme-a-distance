@@ -3,6 +3,7 @@
 ## Solution n°1
 Récupérer l'adresse IP externe de votre box internet en cliquant sur le lien suivant, puis notez le "Hostname".
 https://browserleaks.com/ip
+
 Dans votre box, créez une une redirection des ports comme suit:
 - Protocole : TCP
 - Port externe : 80
@@ -10,9 +11,10 @@ Dans votre box, créez une une redirection des ports comme suit:
 - Adresse IP de destination : L'adresse IP locale de votre centrale Somfy (ex: 192.168.X.X)
 #### Attention il faut que la centrale soit sur IP fixe
 
-Depuis un navigateur, saisissez le host name, vous attérirez directement sur l'interface de votre centrale Somfy.
+Depuis un navigateur, saisissez le host name, vous attérirez directement sur l'interface de votre centrale Somfy. 
+
 Si vous utilisez l'appication Alarme Somfy, aller sur le petite roue dentée sur le premier écran de l'application ALARME SOMFY puis > 2 Connexion à distance , saisir le nom d'hôte dans le champ http:// 
-- Attention ne cochez pas l'otion Connexion rapide -
+#### Attention ne cochez pas l'otion Connexion rapide -
 
 ## Solution n°2
 Configurez un serveur VPN afin d'éaccéder à vos appaereils locaux à distance.
