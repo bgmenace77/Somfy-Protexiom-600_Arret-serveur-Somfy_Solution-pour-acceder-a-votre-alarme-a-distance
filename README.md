@@ -9,7 +9,7 @@ Dans l'interface de gestion de votre box internet, créez une une redirection de
 - Port externe : 80
 - Port interne : 80
 - Adresse IP de destination : L'adresse IP locale de votre centrale Somfy (ex: 192.168.X.X)
-#### Attention il faut que la centrale soit sur IP fixe
+#### Attention il faut que la centrale soit sur IP fixe!
 
 Depuis un navigateur, saisissez le host name, vous attérirez directement sur l'interface de votre centrale Somfy. 
 
