@@ -17,7 +17,7 @@ Dans l'interface de gestion de votre box internet, créez une redirection des po
 Si vous utilisez l'application Alarme Somfy:
 - Cliquez sur la roue dentée dans le premier écran de l'application
 - Cliquez sur "Connexion à distance"
-- Saisir le nom d'hôte dans le champ http:// 
+- Saisir le hostname dans le champ "http://"
 #### Attention, ne cochez pas l'otion "Connexion rapide"
 
 ## Solution n°2
