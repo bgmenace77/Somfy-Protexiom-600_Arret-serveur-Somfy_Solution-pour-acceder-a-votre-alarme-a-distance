@@ -13,7 +13,7 @@ Dans l'interface de gestion de votre box internet, créez une une redirection de
 
 Depuis un navigateur, saisissez le hostname, puis l'interface de la centrale Somfy va apparaitre. 
 
-Si vous utilisez l'appication Alarme Somfy, aller sur le petite roue dentée sur le premier écran de l'application ALARME SOMFY puis > 2 Connexion à distance , saisir le nom d'hôte dans le champ http:// 
+Si vous utilisez l'appication Alarme Somfy, aller sur la petite roue dentée sur le premier écran de l'application ALARME SOMFY puis > 2 Connexion à distance , saisir le nom d'hôte dans le champ http:// 
 #### Attention ne cochez pas l'otion "Connexion rapide"
 
 ## Solution n°2
